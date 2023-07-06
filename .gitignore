@@ -1,2 +1,10 @@
 # Ignora carpetas de teoria
 /*_theory
+
+# Ignora carpetas publicas
+/part*/public
+
+# ignora package-lock.json/package.json
+
+/*/package-lock.json
+/*/package.json
